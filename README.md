@@ -25,7 +25,7 @@ Act as a Data Analyst for a non-profit organization on a mission to reduce defor
 * With a radical shift of paradigms, learn about MongoDB and Redis to get an understanding of the differences in behaviors and requirements for non-relational databases.
 
 
-### [Project 2: Udiddit, A Social News Aggregator](https://github.com/NMangera/Udacity_SQL/blob/main/Uddidit/Udacity_SQL_Project_%233%20%5BUdiddit%3B%20A%20Social%20News%20Aggregator%5D.pdf)
+### [Project 2: Udiddit, A Social News Aggregator(https://github.com/NMangera/Udacity_SQL/blob/main/Uddidit/Udacity_SQL_Project_%233%20%5BUdiddit%3B%20A%20Social%20News%20Aggregator%5D.pdf)
 
 Build the supporting data structure for Udiddit (similar to Reddit), a social media news aggregator site. Design a new, normalized and performant database and migrate over data from the previously poorly designed database.
 
