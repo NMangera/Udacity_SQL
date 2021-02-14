@@ -29,4 +29,4 @@ Act as a Data Analyst for a non-profit organization on a mission to reduce defor
 
 Build the supporting data structure for Udiddit (similar to Reddit), a social media news aggregator site. Design a new, normalized and performant database and migrate over data from the previously poorly designed database.
 
-**[Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Programming+for+Data+Science+with+Python+Nanodegree+Program+Syllabus.pdf) - More information about this program can be found by visiting [Udacity Learn SQL ND](https://www.udacity.com/course/learn-sql--nd072).**
+**More information about this program can be found by visiting [Udacity Learn SQL ND](https://www.udacity.com/course/learn-sql--nd072).**
