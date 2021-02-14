@@ -8,7 +8,7 @@ Master SQL, the core language for Big Data analysis and enable insight-driven de
 * Clean data, optimize SQL queries and write select advanced JOINs to enhance analysis performance. 
 * Explain which cases to use particular SQL commands and apply query results to address business problems.
 
-### [Project 1: Deforestation Exploration]([Insert http Link Here])
+### [Project 1: Deforestation Exploration](https://github.com/NMangera/Udacity_SQL/blob/main/Deforestation_Exploration/Project_Deforestation_Exploration_1_.pdf)
 
 Act as a Data Analyst for a non-profit organization on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
 * Prepare a report for the executive team to understand the global deforestation overview between 1990 and 2016. 
